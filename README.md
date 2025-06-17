@@ -1,4 +1,4 @@
-# Acompanhento de Vendas
+# Acompanhamento de Vendas
 
 ![post_thumbnail-801c53f03508c73882d8a372d4df2e17](https://github.com/user-attachments/assets/3fc52f5e-40e5-49f3-bcd0-5d08f218a08a)
 
