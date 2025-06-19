@@ -62,4 +62,4 @@ Este projeto está licenciado sob a Licença MIT.
 
 ## Agradecimentos
 
-Agradecimentos especiais ao mentor que revisou a lógica das queries e apoiou a modelagem de dados SQL. 🚀
+Agradecimentos especiais ao mentor que revisou a lógica das queries e apoiou a modelagem de dados SQL. 
