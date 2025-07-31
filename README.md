@@ -5,7 +5,7 @@
 
 ## Sobre o Projeto
 
-O **Acompanhamento de Vendas** é um painel de análises extraídas diretamente de um banco de dados PostgreSQL, com foco em visualizações de vendas, funil de conversão e comportamento dos usuários. As consultas foram desenvolvidas para gerar insights estratégicos para tomada de decisões em negócios digitais.
+O **Acompanhamento de Vendas** foi realizado um projeto guiado de um painel de análises extraídas diretamente de um banco de dados PostgreSQL, com foco em visualizações de vendas, funil de conversão e comportamento dos usuários. As consultas foram desenvolvidas para gerar insights estratégicos para tomada de decisões em negócios digitais.
 
 <h4 align="center"> 
 	✅ Concluído
